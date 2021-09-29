@@ -27,7 +27,7 @@
 ## 项目经历
 
 1. 实习/毕设 - AutoParams - 整个系统的开发 - 201710 - 201806
-    * 具体功能：帮助用户自动调节各种机器学习和神经网络的超参数
+    * 具体功能：帮助用户自动调节各种机器学习算法和神经网络的超参数
     * 涉及技术和组件：spring框架构建后台，贝叶斯优化调节超参数，sklearn、xgboost等python库训练模型，jsp、css、js构建前台
     * github地址：[AutoParams](https://github.com/9606/AutoParams)，演示地址：[Demo](https://www.bilibili.com/video/BV1qM4y137ya/)
 
